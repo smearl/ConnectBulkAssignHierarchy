@@ -1,0 +1,20 @@
+{
+  "name": "connectbulkassignhierarchy",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.353.0",
+    "commander": "^2.19.0",
+    "create-react-app": "^2.1.1",
+    "csvtojson": "^2.0.8",
+    "debug": "^4.1.0",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "request": "^2.88.0",
+    "sleep": "^5.2.3",
+    "sync": "^0.2.5"
+  }
+}
